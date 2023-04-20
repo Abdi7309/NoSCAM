@@ -23,19 +23,19 @@
                 <button onclick="window.location.href='./index.php'">logout</button>
             </div>
             <div class="col">
-                <div class="card card1" onclick="window.location.href='./a.html'">
+                <div class="card card1" onclick="window.location.href='./Quiz.php'">
                     <h5>Quiz</h5>
                     </p>
                 </div>
-                <div class="card card2" onclick="window.location.href='./b.html'">
+                <div class="card card2" onclick="window.location.href='./Info.php'">
                     <h5>Info</h5>
                     </p>
                 </div>
-                <div class="card card3" onclick="window.location.href='./c.html'">
+                <div class="card card3" onclick="window.location.href='./Links.php'">
                     <h5>Links</h5>
                     </p>
                 </div>
-                <div class="card card4" onclick="window.location.href='./d.html'">
+                <div class="card card4" onclick="window.location.href='./FAQ.php'">
                     <h5>FAQ</h5>
                     </p>
                 </div>
