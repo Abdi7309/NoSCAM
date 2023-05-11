@@ -20,5 +20,5 @@
             <div class="col">
                 <h1>NoScam</h1>
                 <button onclick="window.location.href='./home.php'">Home</button>
-                <button onclick="window.location.href='./index.php'">logout</button>
+                <button onclick="window.location.href='./index.php'">Logout</button>
             </div>
