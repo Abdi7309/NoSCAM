@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="Quiz.css">
     <style>
         a{
             color: black;
@@ -22,3 +22,26 @@
                 <button onclick="window.location.href='./home.php'">Home</button>
                 <button onclick="window.location.href='./index.php'">logout</button>
             </div>
+            <div class="col">
+                <div class="card card1" onclick="window.location.href='./Quiz-1.1.php'">
+                    <h5>mujnhybgfv</h5>
+                    </p>
+                </div>
+                <div class="card card2" onclick="window.location.href='./Quiz-2.1.php'">
+                    <h5>irnhybtegvr</h5>
+                    </p>
+                </div>
+                <div class="card card3" onclick="window.location.href='./Quiz-3.1.php'">
+                    <h5>iubtrhgvrffr</h5>
+                    </p>
+                </div>
+                <div class="card card4" onclick="window.location.href='./Quiz-4.1.php'">
+                    <h5>kiymegfvd</h5>
+                    </p>
+                </div>
+            </div>
+            </div>
+
+</div>
+</body>
+</html>
