@@ -24,19 +24,19 @@
             </div>
             <div class="col">
                 <div class="card card1" onclick="window.location.href='./Quiz-1.1.php'">
-                    <h5>mujnhybgfv</h5>
+                    <h5></h5>
                     </p>
                 </div>
-                <div class="card card2" onclick="window.location.href='./Quiz-2.1.php'">
-                    <h5>irnhybtegvr</h5>
+                <div class="card caard2" onclick="window.location.href='./Quiz-2.1.php'">
+                    <h5></h5>
                     </p>
                 </div>
                 <div class="card card3" onclick="window.location.href='./Quiz-3.1.php'">
-                    <h5>iubtrhgvrffr</h5>
+                    <h5></h5>
                     </p>
                 </div>
-                <div class="card card4" onclick="window.location.href='./Quiz-4.1.php'">
-                    <h5>kiymegfvd</h5>
+                <div class="card caard4" onclick="window.location.href='./Quiz-4.1.php'">
+                    <h5></h5>
                     </p>
                 </div>
             </div>

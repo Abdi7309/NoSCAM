@@ -85,16 +85,41 @@ button{
 .card1{
   background-image: url(veranderDit.jpg);
 }
-.card2{
+.caard2{
   background-image: url(veranderDit.jpg);
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-right: 20px;
+  padding-bottom: 35px;
+  display: inline-block;
+  border-radius: 10px;
+  box-sizing: border-box;
+  cursor: pointer;
+  margin: 10px 15px;
+  background-position: center;
+  background-size: cover;
+  transition: transform 0.5s;
 }
 .card3{
   
   background-image: url(veranderDit.jpg);
 }
-.card4{
-  
+.caard4{
   background-image: url(veranderDit.jpg);
+  background-image: url(veranderDit.jpg);
+  padding-left: 20px;
+  padding-top: 30px;
+  padding-right: 20px;
+  padding-bottom: 33px;
+  display: inline-block;
+  border-radius: 10px;
+  text-align: te;
+  box-sizing: border-box;
+  cursor: pointer;
+  margin: 10px 15px;
+  background-position: center;
+  background-size: cover;
+  transition: transform 0.5s;    
 }
 
 h5{

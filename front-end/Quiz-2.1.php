@@ -9,17 +9,43 @@
 </head>
 <body>
     <div class="container">
-        <div class="vragen">ujyhtgrfeduyhgtrfedwtkg tnrgjnjgtrnwwotngonewonfowenrgew</div>
+        <div class="vragen">1.ujyhtgrfeduyhgtrfedwtkg tnrgjnjgtrnwwotngonewonfowenrgew</div>
     <div class="col">
-                <div class="card card1" onclick="window.location.href='./Quiz-2.1.php'">
-                    <h5>ibawibrfiarebgibs</h5>
+                <div id="card1">
+                    <h5>1.ibawibrfiarebgibs</h5>
                     </p>
-                </div>
-                <div class="card card2" onclick="window.location.href='./Quiz-2.2.php'">
-                    <h5>ewGFIADSBFIAE</h5>
+                </div><br>
+                <div id="card2">
+                    <h5>2.ewGFIADSBFIAE</h5>
+                    </p>
+                </div><br>
+                <div id="card3" onclick="window.location.href='./Quiz-2.2.php'">
+                    <h5>3.ibawibrfiarebgibs</h5>
+                    </p>
+                </div><br>
+                <div id="card4">
+                    <h5>4.ewGFIADSBFIAE</h5>
                     </p>
                 </div>
 
     </div>
+    
 </body>
+<script>
+const card2 = document.getElementById('card2');
+card2.addEventListener('click', () => {
+    alert('Fout');
+  });
+
+  const card1 = document.getElementById('card1');
+card1.addEventListener('click', () => {
+    alert('Fout');
+  });
+
+  const card4 = document.getElementById('card4');
+card4.addEventListener('click', () => {
+    alert('Fout');
+  });
+  </script>
+  
 </html>
